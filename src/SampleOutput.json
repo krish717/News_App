@@ -1,0 +1,32 @@
+{
+    "status":"ok",
+    "totalResults":2,
+    "articles":[
+       {
+          "source":{
+             "id":null,
+             "name":"CBS Sports"
+          },
+          "author":"Jared Dubin",
+          "title":"Chargers-Colts score, takeaways: Justin Herbert shines, Nick Foles flops as Los Angeles clinches playoff berth - CBS Sports",
+          "description":"Los Angeles can wrap up a playoff spot in the AFC with a win",
+          "url":"https://www.cbssports.com/nfl/news/chargers-colts-score-takeaways-justin-herbert-shines-nick-foles-flops-as-los-angeles-clinches-playoff-berth/live/",
+          "urlToImage":"https://sportshub.cbsistatic.com/i/r/2022/12/27/39f49453-e827-49dd-9d84-10aeef8c9980/thumbnail/1200x675/fc9b00efd41a106668c44d0c835a1d13/austin-ekeler.jpg",
+          "publishedAt":"2022-12-27T05:07:28Z",
+          "content":"Everything was setting up for the Chargers to stumble over themselves once again. With an opportunity to clinch a playoff berth Monday night against the reeling Colts, Los Angeles barely managed a to… [+3663 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"NBCSports.com"
+          },
+          "author":"Mike Florio",
+          "title":"Broncos terminate OL coach Butch Barry, special-teams coordinator Dwayne Stukes - NBC Sports",
+          "description":"Nathaniel Hackett wasn’t the only member of the Broncos coaching staff to be politely asked to leave on Monday.Via Mike Klis of 9News.com, the Broncos has terminated the employment of special-teams coordinator Dwayne Stukes and offensive line coach Butch Barr…",
+          "url":"https://profootballtalk.nbcsports.com/2022/12/26/broncos-terminate-ol-coach-butch-barry-special-teams-coordinator-dwayne-stukes/",
+          "urlToImage":"https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/12/GettyImages-1450152708-e1672109420566.jpg",
+          "publishedAt":"2022-12-27T02:51:00Z",
+          "content":"Nathaniel Hackett wasnt the only member of the Broncos coaching staff to be politely asked to leave on Monday.\r\nVia Mike Klis of 9News.com, the Broncos has terminated the employment of special-teams … [+409 chars]"
+       }
+    ]
+ }
